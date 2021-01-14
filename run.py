@@ -1,4 +1,4 @@
-from tempvelo import app  # create_app
+from flaskblog import app  # create_app
 
 #app = create_app()
 
